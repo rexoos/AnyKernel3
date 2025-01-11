@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=perf by YOGRaJ
+kernel.string=rekt by Ashish
 do.devicecheck=1
 do.modules=0
 do.systemless=1
